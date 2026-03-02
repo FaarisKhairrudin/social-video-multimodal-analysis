@@ -53,6 +53,8 @@ The topic-entity network graph below illustrates the relationships discovered be
 
 ## 🌐 Interactive Dashboard
 
+**Live demo:** [https://faariskhairrudin.github.io/social-video-insights-dashboard/](https://faariskhairrudin.github.io/social-video-insights-dashboard/)
+
 The final deliverable is a **client-side Next.js 14** web application that lets judges and stakeholders explore every insight interactively, with no backend required and all data loaded from a single CSV in the browser.
 
 ### Key pages
